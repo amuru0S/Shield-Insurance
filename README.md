@@ -1,4 +1,11 @@
 # SHIELD INSURANCE End-End Power BI Project
+
+📧[LINKEDIN Post](https://www.linkedin.com/feed/update/urn:li:ugcPost:7311009667134963713/)
+
+🔗[LIVE Dashboard Link](https://app.powerbi.com/groups/me/reports/532352e9-8bba-4cfd-9e0e-a7700ec9c2d3/b202309080cb65d387d4?experience=power-bi)
+
+🔗[Audio Presentation Link](https://www.youtube.com/watch?v=x1o7O7Ij4aw&list=PLZBeZUsVGkkYf8B8T3GX4q1wpP5z0LuBk)
+
 ## Table of Contents:
 [Project Overview](https://github.com/amuru0S/Shield-Insurance/edit/main/README.md#-%F0%9D%97%A3%F0%9D%97%BF%F0%9D%97%BC%F0%9D%97%B7%F0%9D%97%B2%F0%9D%97%B0%F0%9D%98%81-%F0%9D%97%A2%F0%9D%98%83%F0%9D%97%B2%F0%9D%97%BF%F0%9D%98%83%F0%9D%97%B6%F0%9D%97%B2%F0%9D%98%84)
 
@@ -19,9 +26,6 @@
 
 Shield Insurance is an insurance provider operating across five major cities in India: Mumbai, Delhi NCR, Chennai, Hyderabad, and Indore. 
 They are operating through versatile sales modes to reach their customers: Offline Agents, Offline Direct, Online Apps, and Online Websites. They are offering nine different policies tailored to the different age groups from 18-65+.
-
-📧[LINKEDIN Post](https://www.linkedin.com/feed/update/urn:li:ugcPost:7311009667134963713/)
-👉[LIVE Dashboard Link](https://app.powerbi.com/groups/me/reports/532352e9-8bba-4cfd-9e0e-a7700ec9c2d3/b202309080cb65d387d4?experience=power-bi)
 
 ## 🎯𝐎𝐛𝐣𝐞𝐜𝐭𝐢𝐯𝐞
 
