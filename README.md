@@ -15,7 +15,7 @@
 
 [General Analysis Page](https://github.com/amuru0S/Shield-Insurance?tab=readme-ov-file#general-analysis-page)
 
-[Sales Mode Analysis Page](https://github.com/amuru0S/Shield-Insurance/edit/main/README.md#-home-page)
+[Sales Mode Analysis Page](https://github.com/amuru0S/Shield-Insurance/tree/main?tab=readme-ov-file#sales-mode-analysis)
 
 [Age Group Analysis Page](https://github.com/amuru0S/Shield-Insurance/edit/main/README.md#-home-page)
 
