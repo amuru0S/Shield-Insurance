@@ -19,7 +19,7 @@
 
 [Age Group Analysis Page](https://github.com/amuru0S/Shield-Insurance/tree/main?tab=readme-ov-file#age-group-analysis)
 
-[Recommendations](https://github.com/amuru0S/Shield-Insurance/edit/main/README.md#recommendations)
+[Recommendations](https://github.com/amuru0S/Shield-Insurance/tree/main?tab=readme-ov-file#recommendations)
 
 
 ## 📊 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗢𝘃𝗲𝗿𝘃𝗶𝗲𝘄
