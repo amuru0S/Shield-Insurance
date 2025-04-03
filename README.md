@@ -11,7 +11,7 @@
 
 [Objective](https://github.com/amuru0S/Shield-Insurance?tab=readme-ov-file#%F0%9D%90%8E%F0%9D%90%9B%F0%9D%90%A3%F0%9D%90%9E%F0%9D%90%9C%F0%9D%90%AD%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9E)
 
-[Home Page](https://github.com/amuru0S/Shield-Insurance/edit/main/README.md#-home-page)
+[Home Page](https://github.com/amuru0S/Shield-Insurance?tab=readme-ov-file#-home-page)
 
 [General Analysis Page](https://github.com/amuru0S/Shield-Insurance/edit/main/README.md#-home-page)
 
