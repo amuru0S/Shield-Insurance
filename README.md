@@ -13,7 +13,7 @@
 
 [Home Page](https://github.com/amuru0S/Shield-Insurance?tab=readme-ov-file#-home-page)
 
-[General Analysis Page](https://github.com/amuru0S/Shield-Insurance/edit/main/README.md#-home-page)
+[General Analysis Page](https://github.com/amuru0S/Shield-Insurance?tab=readme-ov-file#general-analysis-page)
 
 [Sales Mode Analysis Page](https://github.com/amuru0S/Shield-Insurance/edit/main/README.md#-home-page)
 
