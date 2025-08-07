@@ -38,7 +38,7 @@ As a Data Analyst, I have been tasked to build an end-to-end Power BI project wi
 
 This is a Landing Page from which you can easily navigate across all the pages.
 
-<img width="577" alt="image" src="https://github.com/user-attachments/assets/3c7ff72e-5ed3-48d7-9f30-8edd661bba13" />
+<img width="1140" height="640" alt="image" src="https://github.com/user-attachments/assets/ae16a7dd-48f4-4859-85a7-7063653d41a7" />
 
 ### 📈General Analysis Page:
 
