@@ -44,20 +44,19 @@ This is a Landing Page from which you can easily navigate across all the pages.
 
 This page provides a summary of four important insurance metrics, showcasing monthly revenue and customer trends, as well as a breakdown by city.
 
-<img width="576" alt="image" src="https://github.com/user-attachments/assets/c933827a-0032-46de-887a-5d957c0baa11" />
+<img width="1140" height="640" alt="image" src="https://github.com/user-attachments/assets/59ff9c0c-141e-4b55-90c7-f3edabd95a3c" />
 
 ### 📊Sales Mode Analysis:
 
 This page displays the Total Revenue and Customer metrics categorized by different sales modes.
 
-"<img width="1140" height="640" alt="image" src="https://github.com/user-attachments/assets/d7759831-2c51-4fad-94e9-1cdbb40583b4" />
-"/>
+<img width="1140" height="640" alt="image" src="https://github.com/user-attachments/assets/d7759831-2c51-4fad-94e9-1cdbb40583b4" />
 
 ### 👤Age Group Analysis:
 
 This page represents the Revenue and Customer metrics categorized by distinct age groups.
 
-<img width="577" alt="image" src="https://github.com/user-attachments/assets/3a3dcc37-93ae-4b40-bb2e-b15a64bf5cc0" />
+<img width="1140" height="640" alt="image" src="https://github.com/user-attachments/assets/abe3a7b1-88ab-4256-96f6-8a775ffc4fc8" />
 
 Insights & Recommendations-
 Age Group Analysis:
