@@ -50,7 +50,8 @@ This page provides a summary of four important insurance metrics, showcasing mon
 
 This page displays the Total Revenue and Customer metrics categorized by different sales modes.
 
-<img width="577" alt="image" src="https://github.com/user-attachments/assets/145547ba-3678-49aa-80e9-cd822629cfa4" />
+"<img width="1140" height="640" alt="image" src="https://github.com/user-attachments/assets/d7759831-2c51-4fad-94e9-1cdbb40583b4" />
+"/>
 
 ### 👤Age Group Analysis:
 
